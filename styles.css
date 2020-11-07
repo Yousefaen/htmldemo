@@ -1,0 +1,43 @@
+h2{
+    color:#666666;
+}
+
+.firstparagraph{
+    color:#333333;
+}
+
+#secondparagraph{
+    color:green;
+}
+
+body{
+    text-align: center;
+
+}
+
+#paragraph1{
+    margin-top: 10px;
+}
+
+@media only screen and (max-width: 500px) {
+    body {
+        background-color: yellow;
+}
+}
+
+.container{
+    margin-top: 30px;
+}
+
+.row{
+    margin-top: 50px;
+}
+
+p{
+    margin-top: 15px;
+}
+
+a:hover{
+    text-decoration: none;
+    color: black;
+}
